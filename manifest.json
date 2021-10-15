@@ -1,0 +1,107 @@
+{
+    "name": "#Parcial1",
+    "short_name": "#Parcial1",
+    "description": "Esta Farmachia es una practica PWA",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+            "src": "./img/farmacia-oline.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/farmacia-online(6).png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/farmacia-online(5).png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/farmacia-online(4).png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/farmacia-online(3).png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/farmacia-online(2).png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/farmacia-online(1).png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/medicina-molecular.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/medicina-molecular(1).png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/medicina-molecular(2).png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/medicina-molecular(3).png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/medicina-molecular(4).png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/medicina-molecular(5).png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/medicina-molecular(6).png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/disminucion-de-la-concentracion.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/chico-enfermo.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/youtube.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
